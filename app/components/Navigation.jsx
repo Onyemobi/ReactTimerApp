@@ -10,7 +10,6 @@ var Navigation = () => {
 					<li className="menu-text">React Timer</li>
 						<li><IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink></li>
 						<li><Link to="/countdown" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Countdown</Link></li>
-
 					</ul>	
 				</div>
 				<div className="top-bar-right">
